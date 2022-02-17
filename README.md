@@ -1,2 +1,2 @@
 # imageLightbox
-image lightbox
+creating a beautiful image lightbox using html, css and Javascript
